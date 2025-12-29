@@ -1,0 +1,15 @@
+{
+  "_comment": "这是表配置文件的示例。请复制此文件为 tables.json 并修改为您的实际表名",
+  "tables": [
+    "users",
+    "orders",
+    "products",
+    "categories",
+    "customers",
+    "employees",
+    "departments",
+    "salaries",
+    "transactions",
+    "inventory"
+  ]
+}

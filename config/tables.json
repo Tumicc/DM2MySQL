@@ -1,0 +1,14 @@
+{
+  "tables": [
+    "users",
+    "orders",
+    "products",
+    "categories",
+    "customers",
+    "employees",
+    "departments",
+    "salaries",
+    "transactions",
+    "inventory"
+  ]
+}
