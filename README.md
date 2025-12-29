@@ -191,7 +191,7 @@ dm2mysql/
 ### 1. 克隆项目
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Tumicc/DM2MySQL.git
 cd dm2mysql
 ```
 
@@ -806,8 +806,8 @@ ctx, cancel := context.WithTimeout(context.Background(), 120*time.Minute)
 
 ## 📮 联系方式
 
-- **问题反馈**: [GitHub Issues](https://github.com/your-org/dm2mysql/issues)
-- **功能建议**: [GitHub Discussions](https://github.com/your-org/dm2mysql/discussions)
+- **问题反馈**: [GitHub Issues](https://github.com/Tumicc/DM2MySQL/issues)
+- **功能建议**: [GitHub Discussions](https://github.com/Tumicc/DM2MySQL/discussions)
 - **邮件**: tumicc996@outlook.com
 
 ---
@@ -824,10 +824,10 @@ ctx, cancel := context.WithTimeout(context.Background(), 120*time.Minute)
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/your-org/dm2mysql?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-org/dm2mysql?style=social)
-![GitHub issues](https://img.shields.io/github/issues/your-org/dm2mysql)
-![GitHub license](https://img.shields.io/github/license/your-org/dm2mysql)
+![GitHub stars](https://img.shields.io/github/stars/Tumicc/DM2MySQL?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Tumicc/DM2MySQL?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Tumicc/DM2MySQL)
+![GitHub license](https://img.shields.io/github/license/Tumicc/DM2MySQL)
 
 **如果这个项目对您有帮助,请给一个 ⭐️ Star 支持一下!**
 
